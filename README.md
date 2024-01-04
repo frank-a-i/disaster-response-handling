@@ -2,6 +2,8 @@
 
 This is a demo app that analyses arbitrary text messages whether they are relevant for disaster protection and puts it with the help of AI into relevant categories (like 'missing people', 'child alone' or 'food') for a quicker processing of a human operator.
 
+!["Demo"](demo.png)
+
 ## How to run
 
 Running from scratch one needs to 
